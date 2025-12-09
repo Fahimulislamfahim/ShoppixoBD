@@ -8,7 +8,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     padding: 25px;
     background-color: antiquewhite;
-    background-image: url("images/bg-image/bg_image.png");
+    background-image: url("images/bg-image/bg_img4.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -33,6 +33,12 @@ h1 {
     color: rgb(75, 75, 75);
     text-align: center;
     margin-bottom: 25px;
+    font-family:fira;
+    font-size: 350%;
+    border: 2px solid black;
+    border-style:dashed;
+    border-radius: 25px;
+    background-color: rgba(188, 188, 188, 0.647);
 
 }
 
