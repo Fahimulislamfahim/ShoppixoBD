@@ -158,11 +158,4 @@ h3 {
     text-decoration: underline;
 }
 
-.Search,input,label{
-
-    border: 1px solid black;
-    border-radius: 15px;
-    text-align: center;
-    width: 100%;
-}
 
