@@ -11,7 +11,7 @@ body {
     background-image: url("images/bg-image/bg_img4.jpg");
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: fixed; 
 
 }
 
@@ -157,3 +157,12 @@ h3 {
     color: rgb(75, 75, 75);
     text-decoration: underline;
 }
+
+.Search,input,label{
+
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    width: 100%;
+}
+
